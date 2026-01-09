@@ -10,7 +10,7 @@
 
 <img align="right" height="190" src="https://cdn.pixabay.com/animation/2024/07/07/06/32/06-32-28-251_512.gif">
 
-Sou um Estudante de Redes de Computadores do SENAI de Informática, onde tive contato com as principais tecnologias da área de Nuvem como AWS, Azure e outras ferramentas como: VMWare, Zabbix, Grafana, Git & GitHub, PFsense, ferramentas CISCO e Configurações de Servidores como Windows e Linux.
+Sou formado em Redes de Computadores do SENAI de Informática, onde tive contato com as principais tecnologias da área de Nuvem como AWS, Azure e outras ferramentas como: VMWare, Zabbix, Grafana, Git & GitHub, PFsense, ferramentas CISCO e Configurações de Servidores como Windows e Linux.
 
 <br>
 <br>
